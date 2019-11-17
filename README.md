@@ -1,1 +1,1 @@
-# gcp-ml-example
+# gcp-tensorflow-image-classifier
